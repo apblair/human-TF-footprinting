@@ -1,0 +1,7 @@
+Data/*.json
+Data/*.fa
+Data/*.fai
+Data/*.bam
+Data/*.bai
+Data/*.bed
+Data/*.txt
