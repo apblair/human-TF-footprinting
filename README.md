@@ -30,10 +30,17 @@ $ screen -S TF-workspace
 $ bash runContainer.sh
 ```
 
-Once the container starts, please open a browser (e.g., Chrome) and search:
-http://localhost:8889
+If all previous steps were followed correctly, **runContainer.sh** will export a ServerApp log (as seen below):
 
-You will be prompted to 
+<image src="Figures/runContainer-Demo.png">
+
+Next, please copy your token (example highlighted in green as seen above) and open a browser (e.g., Chrome) and search: http://localhost:8889
+
+You will be prompted to add a token (or configure a password) to enter JupyterLab.
+
+# Resources
+
+    * 
 
 # References
 
