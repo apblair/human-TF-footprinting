@@ -1,5 +1,5 @@
 # human-TF-footprinting
-Recreate Extended Data Fig.1 | Statistical modeling of DNase I cleavage variation and footprint detection within a CD19+ B-cell dataset.
+Recreate **Extended Data Fig.1** | Statistical modeling of DNase I cleavage variation and footprint detection within a CD19+ B-cell dataset.
 
 # Setup
 
@@ -8,7 +8,7 @@ Recreate Extended Data Fig.1 | Statistical modeling of DNase I cleavage variatio
 $ git clone git@github.com:apblair/human-TF-footprinting.git
 ```
 
-2. Pull the data
+2. Pull Extended Data Fig.1 data
 ```bash
 $ cd human-TF-footprinting/Data
 $ bash pullData.sh
