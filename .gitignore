@@ -5,3 +5,5 @@ Data/*.bam
 Data/*.bai
 Data/*.bed
 Data/*.txt
+.ipynb_checkpoints/*
+Notebooks/.ipynb_checkpoints/*
