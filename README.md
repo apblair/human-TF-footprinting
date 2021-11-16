@@ -35,13 +35,14 @@ If all previous steps were followed correctly, **runContainer.sh** will export a
 Next, please copy your token (as seen in the example above highlighted in green) and open a browser (e.g., Chrome) and search: http://localhost:8889
 
 Finally, add the token (or configure a password) to enter JupyterLab.
-
+g
 # Resource Links
 
 * [footprint-tools](https://github.com/jvierstra/footprint-tools)
-* [Zenodo-Global consensus map of human transcription factor footprints](https://zenodo.org/record/3905306#.YZQRjb3MJhE)
+* [Tutorial-Extended Data Fig. 1](https://footprint-tools.readthedocs.io/en/latest/tutorials/single_dataset.html)
 * [Vierstra-Digital genomic footprinting](https://www.vierstra.org/resources/dgf)
 * [Vierstra-Web directory](https://resources.altius.org/~jvierstra/projects/footprinting.2020/)
+* [Zenodo-Global consensus map of human transcription factor footprints](https://zenodo.org/record/3905306#.YZQRjb3MJhE)
 
 # References
 
