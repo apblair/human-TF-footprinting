@@ -30,7 +30,8 @@ $ screen -S TF-workspace
 $ bash runContainer.sh
 ```
 
-If all previous steps were followed correctly, **runContainer.sh** will export a ServerApp log (as seen below) <image src="Figures/runContainer-Demo.png">
+If all previous steps were followed correctly, **runContainer.sh** will export a ServerApp log (as seen below) 
+![Alt text](Figures/runContainer-Demo.png?raw=true "Title")
     
 Next, please copy your token (as seen in the example above highlighted in green) and open a browser (e.g., Chrome) and search: http://localhost:8889
 
