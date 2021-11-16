@@ -30,19 +30,27 @@ $ screen -S TF-workspace
 $ bash runContainer.sh
 ```
 
-If all previous steps were followed correctly, **runContainer.sh** will export a ServerApp log (as seen below) 
+If all previous steps were followed correctly, **runContainer.sh** will export a ServerApp log (as seen below): 
 ![Alt text](Figures/runContainer-Demo.png?raw=true "Title")
     
 Next, please copy your token (as seen in the example above highlighted in green) and open a browser (e.g., Chrome) and search: http://localhost:8889
 
-You will be prompted to add a token (or configure a password) to enter JupyterLab.
+Finally, add the token (or configure a password) to enter JupyterLab.
 
 # Pull Data
 
-    
+```bash
+$ cd human-TF-footprinting/Data
+$ cd wget pullData.sh
+```
+
 # Resource Links
-    * [footprint-tools](https://github.com/jvierstra/footprint-tools)
-    
+
+* [footprint-tools](https://github.com/jvierstra/footprint-tools)
+* [Zenodo-Global consensus map of human transcription factor footprints](https://zenodo.org/record/3905306#.YZQRjb3MJhE)
+* [Vierstra-Digital genomic footprinting](https://www.vierstra.org/resources/dgf)
+* [Vierstra-Web directory](https://resources.altius.org/~jvierstra/projects/footprinting.2020/)
+
 # References
 
 1. Vierstra, J. & Stamatoyannopoulos, J. A. Genomic footprinting. Nat Methods 13, 213–221 (2016).
