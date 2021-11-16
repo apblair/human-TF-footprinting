@@ -41,7 +41,7 @@ Finally, add the token (or configure a password) to enter JupyterLab.
 
 ```bash
 $ cd human-TF-footprinting/Data
-$ cd wget pullData.sh
+$ bash pullData.sh
 ```
 
 # Resource Links
