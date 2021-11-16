@@ -25,10 +25,15 @@ $ bash buildImage.sh
 
 5. Start a Screen or tmux session for running the container
 ```bash
-$ cd human-TF-footpriting
+$ cd human-TF-footprinting
 $ screen -S TF-workspace
 $ bash runContainer.sh
 ```
+
+Once the container starts, please open a browser (e.g., Chrome) and search:
+http://localhost:8889
+
+You will be prompted to 
 
 # References
 
