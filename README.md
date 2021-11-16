@@ -10,8 +10,7 @@ $ git clone git@github.com:apblair/human-TF-footprinting.git
 
 2. Pull the data
 ```bash
-$ cd human-TF-footprinting
-$ cd Data
+$ cd human-TF-footprinting/Data
 $ bash pullData.sh
 ```
 
@@ -36,13 +35,6 @@ If all previous steps were followed correctly, **runContainer.sh** will export a
 Next, please copy your token (as seen in the example above highlighted in green) and open a browser (e.g., Chrome) and search: http://localhost:8889
 
 Finally, add the token (or configure a password) to enter JupyterLab.
-
-# Pull Data
-
-```bash
-$ cd human-TF-footprinting/Data
-$ bash pullData.sh
-```
 
 # Resource Links
 
