@@ -1,5 +1,5 @@
 # human-TF-footprinting
-Statistical modeling of DNase I cleavage variation and footprint detection within a CD19+ B-cell dataset.
+Recreate Extended Data Fig.1 | Statistical modeling of DNase I cleavage variation and footprint detection within a CD19+ B-cell dataset.
 
 # Setup
 
