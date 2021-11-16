@@ -39,6 +39,7 @@ Finally, add the token (or configure a password) to enter JupyterLab.
 # Resource Links
 
 * [footprint-tools](https://github.com/jvierstra/footprint-tools)
+* [genome-tools](https://github.com/jvierstra/genome-tools)
 * [Tutorial-Extended Data Fig. 1](https://footprint-tools.readthedocs.io/en/latest/tutorials/single_dataset.html)
 * [Vierstra-Digital genomic footprinting](https://www.vierstra.org/resources/dgf)
 * [Vierstra-Web directory](https://resources.altius.org/~jvierstra/projects/footprinting.2020/)
