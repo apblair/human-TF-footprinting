@@ -35,7 +35,7 @@ If all previous steps were followed correctly, **runContainer.sh** will export a
 Next, please copy your token (as seen in the example above highlighted in green) and open a browser (e.g., Chrome) and search: http://localhost:8889
 
 Finally, add the token (or configure a password) to enter JupyterLab.
-g
+
 # Resource Links
 
 * [footprint-tools](https://github.com/jvierstra/footprint-tools)
