@@ -7,3 +7,4 @@ Data/*.bed
 Data/*.txt
 .ipynb_checkpoints/*
 Notebooks/.ipynb_checkpoints/*
+Data/.ipynb_checkpoints/*
