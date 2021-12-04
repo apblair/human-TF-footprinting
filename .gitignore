@@ -5,6 +5,7 @@ Data/*.bam
 Data/*.bai
 Data/*.bed
 Data/*.txt
+Data/*.bigWig
 .ipynb_checkpoints/*
 Notebooks/.ipynb_checkpoints/*
 Data/.ipynb_checkpoints/*
