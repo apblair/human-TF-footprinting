@@ -1,1 +1,1 @@
-docker build -f Dockerfile --no-cache -t apblair/bmi206 .
+docker build -f Dockerfile -t apblair/bmi206 .

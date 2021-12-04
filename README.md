@@ -41,6 +41,7 @@ Finally, add the token (or configure a password) to enter JupyterLab.
 * [footprint-tools](https://github.com/jvierstra/footprint-tools)
 * [genome-tools](https://github.com/jvierstra/genome-tools)
 * [Tutorial-Extended Data Fig. 1](https://footprint-tools.readthedocs.io/en/latest/tutorials/single_dataset.html)
+* [Stranded mappability bed file tutorial](https://github.com/jvierstra/footprint-tools/blob/2096c5dc1986a29cf09d9871bc69db83d4e78e9c/docs/source/tutorials/detect.rst)
 * [Vierstra-Digital genomic footprinting](https://www.vierstra.org/resources/dgf)
 * [Vierstra-Web directory](https://resources.altius.org/~jvierstra/projects/footprinting.2020/)
 * [Zenodo-Global consensus map of human transcription factor footprints](https://zenodo.org/record/3905306#.YZQRjb3MJhE)
