@@ -4,6 +4,7 @@ Data/*.fai
 Data/*.bam
 Data/*.bai
 Data/*.bed
+Data/*.bed.gz
 Data/*.txt
 Data/*.bigWig
 .DS_Store
