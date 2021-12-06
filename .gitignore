@@ -7,6 +7,8 @@ Data/*.bed
 Data/*.bed.gz
 Data/*.txt
 Data/*.bigWig
+Data/*.bed.graph
+Data/*.bed.graph.gz
 .DS_Store
 .ipynb_checkpoints/*
 Notebooks/.ipynb_checkpoints/*
