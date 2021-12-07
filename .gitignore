@@ -1,4 +1,5 @@
 Data/*.json
+Data/*.bw
 Data/*.fa
 Data/*.fai
 Data/*.bam

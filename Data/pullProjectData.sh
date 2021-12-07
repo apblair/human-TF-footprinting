@@ -1,11 +1,16 @@
 # wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/hg38.all.fa
 
 # Personal Project
-wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/consensus.index/consensus_footprints_and_collapsed_motifs_hg38.bed.gz
+#wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/consensus.index/consensus_footprints_and_collapsed_motifs_hg38.bed.gz
 
-wget http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeMapability/wgEncodeCrgMapabilityAlign36mer.bigWig
+#wget http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeMapability/wgEncodeCrgMapabilityAlign36mer.bigWig
 
-wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD19+-DS17186/interval.all.bedgraph.gz 
+#wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD19+-DS17186/interval.all.bedgraph.gz 
+wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD19+-DS17186/interval.all.obs.bw
+
+wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD19+-DS17186/interval.all.exp.bw
+
+wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD19+-DS17186/interval.all.fpr.bw
 
 # wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD20+-DS18208/reads.bam
 
