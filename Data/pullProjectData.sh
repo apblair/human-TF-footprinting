@@ -10,7 +10,7 @@ wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.data
 wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD20+-DS18208/interval.all.fps.0.01.bed.gz
 wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD20+-DS18208/interval.all.fps.0.05.bed
 wget http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz
-
+wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD20+-DS18208/interval.all.bedgraph.gz
 # Group Project
 wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD20+-DS18208/reads.bam
 wget https://resources.altius.org/~jvierstra/projects/footprinting.2020/per.dataset/CD20+-DS18208/dm.json
